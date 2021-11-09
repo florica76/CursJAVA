@@ -16,7 +16,9 @@ public class WageCalculator {
 		System.out.println(tester2.getNume());
 		
 		WageCalculator calc = new WageCalculator();
-		System.out.println("Salariul lui " + tester1.getNume() + "este: " + calc.calculateSalary(tester1.getRatePerHour()));
+		
+		System.out.println("Salariul lui " + tester1.getNume() + " este: " + calc.calculateSalary(tester1.getRatePerHour()));
+		System.out.println("Salariul lui " + tester2.getNume() + " este: " + calc.calculateSalary(tester2.getRatePerHour()));
 	}
 	
 	public int calculateSalary(int rateHurly) {
@@ -25,3 +27,4 @@ public class WageCalculator {
 		
 	}
 }
+// tema : 
