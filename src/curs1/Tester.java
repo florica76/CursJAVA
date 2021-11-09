@@ -7,7 +7,7 @@ public class Tester {
 	int ratePerHour;
 	
 	
-	//metode
+
 	
 	public String getNume() {
 		return nume;
