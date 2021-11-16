@@ -1,4 +1,4 @@
-package curs1;
+package Curs1;
 
 public class WageCalculator {
 	int nrOreLucrate =40;
