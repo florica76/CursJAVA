@@ -1,4 +1,4 @@
-package curs4;
+package Curs4;
 
 import java.util.Scanner;
 
