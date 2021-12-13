@@ -1,6 +1,5 @@
 package Curs2;
 
-import org.w3c.dom.css.Rect;
 
 public class Rectangle {
     // variabile de clasa, care au doar valoarea default = 0
