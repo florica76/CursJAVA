@@ -8,7 +8,7 @@ public class CalculateSum {
         Scanner scan =  new Scanner(System.in);
         for(int i =1; i<=10; i++) {
             System.out.println("Please enter number "+ i );
-            sum = sum + scan.nextInt();
+            sum += scan.nextInt();
         }
         System.out.println("The sum of numners is " + sum);
 

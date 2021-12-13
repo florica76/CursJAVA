@@ -19,7 +19,7 @@ public class WhatIsYourAge {
         } else if ( age >= 18 && age <= 65) {
             System.out.println("Esti adult.");
 
-        } else if ( age > 65 ) {
+        } else if ( age > 65 && age < 120) {
             System.out.println("Esti batran.");
 
         }
