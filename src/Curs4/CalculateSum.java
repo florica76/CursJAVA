@@ -9,7 +9,6 @@ public class CalculateSum {
         for(int i =1; i<=10; i++) {
             System.out.println("Please enter number "+ i );
             sum = sum + scan.nextInt();
-            System.out.println("Pana acum " + sum);
         }
         System.out.println("The sum of numners is " + sum);
 
