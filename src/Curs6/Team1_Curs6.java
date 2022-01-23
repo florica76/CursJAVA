@@ -10,7 +10,7 @@ public class Team1_Curs6 {
         int[] arrayNumbers = new int[10];
         Scanner scan = new Scanner(System.in);
         for ( int i= 0; i<10; i++) {
-            System.out.println("Please add numers "+ (i+1));
+            System.out.println("Please add 10 numers "+ (i+1));
             arrayNumbers[i] = scan.nextInt();
         }
         System.out.println("You written this numbers : ");
