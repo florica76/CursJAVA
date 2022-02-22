@@ -1,0 +1,2 @@
+Textul meu in fisier !
+append new line 
